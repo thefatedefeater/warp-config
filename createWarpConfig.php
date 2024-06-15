@@ -143,9 +143,8 @@ function createWarp($ip = "", $port = "")
     $hash = getRandomName();
     
     $baseStreisand = "wireguard://{$ip}:{$port}?private_key={$private_key}&peer_public_key={$public_key}&mtu=1280&reserved={$reserved}#{$hash}";
-    $base64Reserved = decimalToBase64($reserved);
     $baseHiddify =
-        "wg://{$ip}:{$port}/?pk={$private_key}&local_address=10.0.0.2/24&peer_pk={$public_key}&pre_shared_key=&workers=&mtu=1280&reserved={$base64Reserved}#{$hash}";
+        "wg://{$ip}:{$port}/?pk={$private_key}&peer_public_key={$public_key}&local_address=172.16.0.2/24,2606:4700:110:835b:afd4:b62b:a64a:2860/128&mtu=1280&reserved={$reserved}&ifp=8-15&ifps=40-100&ifpd=20-250#{$hash}";
     return [
         $ip,
         $port,
