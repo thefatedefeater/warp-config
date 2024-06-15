@@ -145,6 +145,7 @@ function createWarp($ip = "", $port = "")
     $baseStreisand = "wireguard://{$ip}:{$port}?private_key={$private_key}&peer_public_key={$public_key}&mtu=1280&reserved={$reserved}#{$hash}";
     $baseHiddify =
         "wg://{$ip}:{$port}/?pk={$private_key}&peer_public_key={$public_key}&local_address=172.16.0.2/24,2606:4700:110:835b:afd4:b62b:a64a:2860/128&mtu=1280&reserved={$reserved}&ifp=8-15&ifps=40-100&ifpd=20-250#{$hash}";
+    $baseV2rayng = "wireguard://{$private_key}@{$ip}:{$port}?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved={$reserved}&publickey={$public_key}&mtu=1280#{$hash}"
     return [
         $ip,
         $port,
@@ -153,7 +154,8 @@ function createWarp($ip = "", $port = "")
         $reserved,
         "streisand://import/" . $baseStreisand, 
         "hiddify://import/" . $baseHiddify,
-        $warpPlusKey
+        $warpPlusKey,
+        $baseV2rayng
     ];
 }
 
@@ -201,7 +203,8 @@ $configsJson[] = [
     "reserved(base64)" => decimalToBase64($output[4]),
     "key" => !is_null($output[7]) ? $output[7] : "Free WARP",
     "streisand" => $output[5],
-    "hiddify" => $output[6]
+    "hiddify" => $output[6],
+    "v2rayng" => $output[8]
 ];
 
 $configsOutput = json_encode($configsJson, JSON_PRETTY_PRINT);
