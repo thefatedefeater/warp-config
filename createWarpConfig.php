@@ -145,7 +145,8 @@ function createWarp($ip = "", $port = "")
     $baseStreisand = "wireguard://{$ip}:{$port}?private_key={$private_key}&peer_public_key={$public_key}&mtu=1280&reserved={$reserved}#{$hash}";
     $baseHiddify =
         "wg://{$ip}:{$port}/?pk={$private_key}&peer_public_key={$public_key}&local_address=172.16.0.2/24,2606:4700:110:835b:afd4:b62b:a64a:2860/128&mtu=1280&reserved={$reserved}&ifp=8-15&ifps=40-100&ifpd=20-250#{$hash}";
-    $baseV2rayng = "wireguard://{$private_key}@{$ip}:{$port}?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved={$reserved}&publickey={$public_key}&mtu=1280#{$hash}"
+    $base64Reserved = decimalToBase64($reserved);
+    $baseV2rayng = "wireguard://{$private_key}@{$ip}:{$port}?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved={$base64Reserved}&publickey={$public_key}&mtu=1280#{$hash}"
     return [
         $ip,
         $port,
