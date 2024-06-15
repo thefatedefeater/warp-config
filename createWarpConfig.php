@@ -190,7 +190,7 @@ $output = createWarp($choosenIp, $choosenPort);
 
 $warpLicense = !is_null($output[7]) ? "WARP+ License = {$output[7]}" : "WARP+ License = NOT WARP+";
 
-$configsJson = json_decode(file_get_contents("warpConfigs.json"), true) ?? "{}";
+$configsJson = json_decode(file_get_contents("warpConfigs.json"), true) ?? [];
 
 $configsJson[] = [,
     "added" => time(),
