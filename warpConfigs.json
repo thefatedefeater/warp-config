@@ -1,1 +1,14 @@
-{}
+[
+    {
+        "added": 1718476496,
+        "ip": "188.114.98.114",
+        "port": "1387",
+        "private_key": "KELICYV05C9eoYTdgTpEr2rAX\/cSRnLjV5kt\/o2qZnw%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "188,30,178",
+        "reserved(base64)": "vB6y",
+        "key": "rY7q6p19-4i62Q8SC-aFSK0537",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.114:1387?private_key=KELICYV05C9eoYTdgTpEr2rAX\/cSRnLjV5kt\/o2qZnw%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=188,30,178#hyvrgqmyfg",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.114:1387\/?pk=KELICYV05C9eoYTdgTpEr2rAX\/cSRnLjV5kt\/o2qZnw%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=188,30,178&ifp=8-15&ifps=40-100&ifpd=20-250#hyvrgqmyfg"
+    }
+]
