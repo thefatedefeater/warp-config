@@ -192,7 +192,7 @@ $warpLicense = !is_null($output[7]) ? "WARP+ License = {$output[7]}" : "WARP+ Li
 
 $configsJson = json_decode(file_get_contents("warpConfigs.json"), true) ?? [];
 
-$configsJson[] = [,
+$configsJson[] = [
     "added" => time(),
     "ip" => $output[0],
     "port" => $output[1],
