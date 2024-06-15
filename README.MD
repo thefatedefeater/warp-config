@@ -1,6 +1,6 @@
-# Warp Plus Key Generator
+# Warp Plus Config Generator
 
-This is a Python script that generates Warp Plus keys for your applications using Cloudflare. 
+This is a script that generates Warp Plus Configs using Warp plus keys. 
 
 The script automates the following procedures:
 1. Registers a new user account
@@ -9,12 +9,14 @@ The script automates the following procedures:
 4. Updates the initial license (swap with another license from a predefined list and then swap back to the initial)
 5. Retrieves final quota and checks if Warp Plus is enabled
 6. If Warp Plus is enabled, final license and quota are stored in a JSON file.
+7. create a Warp Plus config using to generated license!
 
 ## Prerequisites
 
 - Python 3.11.4
 - httpx package for sending HTTP requests
 - python-dotenv package for managing environment variables
+- Php 7.4
 
 These packages can be installed using:
 
@@ -35,6 +37,7 @@ KEYS=key1,key2,key3,...
 
 ```bash
 python main.py
+php createWarpConfig.php
 ```
 Please note you need to specify the number of keys the program must generate in the `main` function.
 
@@ -46,7 +49,7 @@ This script is provided as is without any guarantees or warranty. The author is 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check [issues page](http://github.com/4erdenko/warp_plus_keys_generator/issues).
+Feel free to check [issues page](http://github.com/itsyebekhe/warp-config/issues).
 
 ## License
 
