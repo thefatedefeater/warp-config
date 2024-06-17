@@ -1636,5 +1636,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.97.255:3138?private_key=kDCgcHYfL74s4L515uDn3+g1cnplaEQckUr0bhd43H0%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=148,248,126#wxxlgveynh",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.97.255:3138\/?pk=kDCgcHYfL74s4L515uDn3+g1cnplaEQckUr0bhd43H0%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=148,248,126&ifp=8-15&ifps=40-100&ifpd=20-250#wxxlgveynh",
         "v2rayng": "wireguard:\/\/kDCgcHYfL74s4L515uDn3%2Bg1cnplaEQckUr0bhd43H0%3D@188.114.97.255:3138?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=148%2C248%2C126&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#wxxlgveynh"
+    },
+    {
+        "added": 1718612941,
+        "ip": "188.114.99.71",
+        "port": "8886",
+        "private_key": "wNcqCP+IF0PmbKzhCBwBVQaweMZRgNLunJmB40xX7W8%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "18,47,8",
+        "reserved(base64)": "Ei8I",
+        "key": "32y9JWX5-5jb70K3M-S79upD04",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.71:8886?private_key=wNcqCP+IF0PmbKzhCBwBVQaweMZRgNLunJmB40xX7W8%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=18,47,8#rcdovjobpu",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.71:8886\/?pk=wNcqCP+IF0PmbKzhCBwBVQaweMZRgNLunJmB40xX7W8%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=18,47,8&ifp=8-15&ifps=40-100&ifpd=20-250#rcdovjobpu",
+        "v2rayng": "wireguard:\/\/wNcqCP%2BIF0PmbKzhCBwBVQaweMZRgNLunJmB40xX7W8%3D@188.114.99.71:8886?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=18%2C47%2C8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#rcdovjobpu"
     }
 ]
