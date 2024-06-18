@@ -119,7 +119,7 @@ function createWarp($ip = "", $port = "")
         }
         // Run the warp-go command with the generated warp.conf file
         shell_exec(
-            "./warp-go --update --config=./warp.conf --license=$warpkey --device-name=$device_name"
+            "./warp-go --update --config=./warp.conf --license=$warpPlusKey --device-name=$device_name"
         );
     }
 
