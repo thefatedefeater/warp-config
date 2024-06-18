@@ -3287,5 +3287,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.192:880?private_key=uKfaZc7l0VrO0haOpR41hki7rdlk+81aPJQo52a2HFY%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=192,156,16#yelinnzwtv",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.192:880\/?pk=uKfaZc7l0VrO0haOpR41hki7rdlk+81aPJQo52a2HFY%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=192,156,16&ifp=8-15&ifps=40-100&ifpd=20-250#yelinnzwtv",
         "v2rayng": "wireguard:\/\/uKfaZc7l0VrO0haOpR41hki7rdlk%2B81aPJQo52a2HFY%3D@188.114.98.192:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=192%2C156%2C16&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#yelinnzwtv"
+    },
+    {
+        "added": 1718738324,
+        "ip": "188.114.99.14",
+        "port": "7152",
+        "private_key": "8DIe1Ud+Mpxx2blNUxluSbFbxnPbheoCaF29ukLRRWI%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "195,37,95",
+        "reserved(base64)": "wyVf",
+        "key": "7R5NG39a-E5Nv079o-Zi1bx348",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.14:7152?private_key=8DIe1Ud+Mpxx2blNUxluSbFbxnPbheoCaF29ukLRRWI%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=195,37,95#pcgocgolad",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.14:7152\/?pk=8DIe1Ud+Mpxx2blNUxluSbFbxnPbheoCaF29ukLRRWI%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=195,37,95&ifp=8-15&ifps=40-100&ifpd=20-250#pcgocgolad",
+        "v2rayng": "wireguard:\/\/8DIe1Ud%2BMpxx2blNUxluSbFbxnPbheoCaF29ukLRRWI%3D@188.114.99.14:7152?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=195%2C37%2C95&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#pcgocgolad"
     }
 ]
