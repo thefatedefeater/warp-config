@@ -7265,5 +7265,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.36:1002?private_key=uF3ZW5d8Sn8skkzJomnnH3\/Cg2CkfpOz09iiU+gXi1o%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=245,50,229#zgoxugdfgu",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.36:1002\/?pk=uF3ZW5d8Sn8skkzJomnnH3\/Cg2CkfpOz09iiU+gXi1o%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=245,50,229&ifp=8-15&ifps=40-100&ifpd=20-250#zgoxugdfgu",
         "v2rayng": "wireguard:\/\/uF3ZW5d8Sn8skkzJomnnH3%2FCg2CkfpOz09iiU%2BgXi1o%3D@188.114.98.36:1002?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=245%2C50%2C229&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#zgoxugdfgu"
+    },
+    {
+        "added": 1719047263,
+        "ip": "188.114.98.112",
+        "port": "4177",
+        "private_key": "WJZU+XOSBmF1APF8sA2aXF+02yWLAspSOQ7SkmvSpUo%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "234,236,77",
+        "reserved(base64)": "6uxN",
+        "key": "3Az0I92k-y3206Bom-34Su58qU",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.112:4177?private_key=WJZU+XOSBmF1APF8sA2aXF+02yWLAspSOQ7SkmvSpUo%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=234,236,77#kkkzrstraf",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.112:4177\/?pk=WJZU+XOSBmF1APF8sA2aXF+02yWLAspSOQ7SkmvSpUo%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=234,236,77&ifp=8-15&ifps=40-100&ifpd=20-250#kkkzrstraf",
+        "v2rayng": "wireguard:\/\/WJZU%2BXOSBmF1APF8sA2aXF%2B02yWLAspSOQ7SkmvSpUo%3D@188.114.98.112:4177?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=234%2C236%2C77&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#kkkzrstraf"
     }
 ]
