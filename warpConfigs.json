@@ -8734,5 +8734,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.3:987?private_key=eLJ3+Mq6mhDBuIXvqCuk1CSYo7oe3wvyIVXuUqc4VmI%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=105,91,27#szewjayatv",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.3:987\/?pk=eLJ3+Mq6mhDBuIXvqCuk1CSYo7oe3wvyIVXuUqc4VmI%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=105,91,27&ifp=8-15&ifps=40-100&ifpd=20-250#szewjayatv",
         "v2rayng": "wireguard:\/\/eLJ3%2BMq6mhDBuIXvqCuk1CSYo7oe3wvyIVXuUqc4VmI%3D@188.114.99.3:987?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=105%2C91%2C27&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#szewjayatv"
+    },
+    {
+        "added": 1719156686,
+        "ip": "188.114.99.14",
+        "port": "943",
+        "private_key": "cPbWEf2An4QgfDHKRdY+BlWihKwy+d0zBvlvy7Bho08%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "99,227,190",
+        "reserved(base64)": "Y+O+",
+        "key": "qE460R9J-0zH8Et41-5lCg07V2",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.14:943?private_key=cPbWEf2An4QgfDHKRdY+BlWihKwy+d0zBvlvy7Bho08%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=99,227,190#hcwrwxttwe",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.14:943\/?pk=cPbWEf2An4QgfDHKRdY+BlWihKwy+d0zBvlvy7Bho08%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=99,227,190&ifp=8-15&ifps=40-100&ifpd=20-250#hcwrwxttwe",
+        "v2rayng": "wireguard:\/\/cPbWEf2An4QgfDHKRdY%2BBlWihKwy%2Bd0zBvlvy7Bho08%3D@188.114.99.14:943?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=99%2C227%2C190&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#hcwrwxttwe"
     }
 ]
