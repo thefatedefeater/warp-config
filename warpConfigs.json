@@ -5926,5 +5926,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.5:2408?private_key=EPXsfHaD583PpWluiNCv82JDBMeVj7eFC+6MBvqxsFc%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=142,5,174#bzdrjrmbqe",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.5:2408\/?pk=EPXsfHaD583PpWluiNCv82JDBMeVj7eFC+6MBvqxsFc%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=142,5,174&ifp=8-15&ifps=40-100&ifpd=20-250#bzdrjrmbqe",
         "v2rayng": "wireguard:\/\/EPXsfHaD583PpWluiNCv82JDBMeVj7eFC%2B6MBvqxsFc%3D@188.114.96.5:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=142%2C5%2C174&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#bzdrjrmbqe"
+    },
+    {
+        "added": 1719206771,
+        "ip": "188.114.98.17",
+        "port": "2506",
+        "private_key": "yLswXmP8AZKdUGDWQQ3vQ2c016A09yhWK5IrRoD+Ang%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "179,0,62",
+        "reserved(base64)": "swA+",
+        "key": "9Q5x8kW1-40njSM62-s107A5Jh",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.17:2506?private_key=yLswXmP8AZKdUGDWQQ3vQ2c016A09yhWK5IrRoD+Ang%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=179,0,62#jytbplxrzo",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.17:2506\/?pk=yLswXmP8AZKdUGDWQQ3vQ2c016A09yhWK5IrRoD+Ang%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=179,0,62&ifp=8-15&ifps=40-100&ifpd=20-250#jytbplxrzo",
+        "v2rayng": "wireguard:\/\/yLswXmP8AZKdUGDWQQ3vQ2c016A09yhWK5IrRoD%2BAng%3D@188.114.98.17:2506?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=179%2C0%2C62&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#jytbplxrzo"
     }
 ]
