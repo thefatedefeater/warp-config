@@ -15065,5 +15065,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.97.134:942?private_key=8HDTBPAO9TQ4kUQHJngpIMfNMCgt2CMSOZE8mOBV9kk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=24,234,108#npzwsxnvza",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.97.134:942\/?pk=8HDTBPAO9TQ4kUQHJngpIMfNMCgt2CMSOZE8mOBV9kk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=24,234,108&ifp=8-15&ifps=40-100&ifpd=20-250#npzwsxnvza",
         "v2rayng": "wireguard:\/\/8HDTBPAO9TQ4kUQHJngpIMfNMCgt2CMSOZE8mOBV9kk%3D@188.114.97.134:942?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=24%2C234%2C108&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#npzwsxnvza"
+    },
+    {
+        "added": 1719646301,
+        "ip": "188.114.97.51",
+        "port": "988",
+        "private_key": "GHjgnedUFobyYNLXeBcT6poxCyzStFS2IA2W1vnbi2E%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "121,187,55",
+        "reserved(base64)": "ebs3",
+        "key": "q9nOo124-ra8k96y0-6tq2RA45",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.97.51:988?private_key=GHjgnedUFobyYNLXeBcT6poxCyzStFS2IA2W1vnbi2E%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=121,187,55#vxciattmpe",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.97.51:988\/?pk=GHjgnedUFobyYNLXeBcT6poxCyzStFS2IA2W1vnbi2E%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=121,187,55&ifp=8-15&ifps=40-100&ifpd=20-250#vxciattmpe",
+        "v2rayng": "wireguard:\/\/GHjgnedUFobyYNLXeBcT6poxCyzStFS2IA2W1vnbi2E%3D@188.114.97.51:988?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=121%2C187%2C55&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#vxciattmpe"
     }
 ]
