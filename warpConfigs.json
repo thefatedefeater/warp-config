@@ -12452,5 +12452,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.193.238:903?private_key=2EEEQsrKtr7eBaV3CdqC2SoDG+OXAvIo9wPn\/6y86lE%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=102,182,140#svghzwxhdp",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.193.238:903\/?pk=2EEEQsrKtr7eBaV3CdqC2SoDG+OXAvIo9wPn\/6y86lE%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=102,182,140&ifp=8-15&ifps=40-100&ifpd=20-250#svghzwxhdp",
         "v2rayng": "wireguard:\/\/2EEEQsrKtr7eBaV3CdqC2SoDG%2BOXAvIo9wPn%2F6y86lE%3D@162.159.193.238:903?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=102%2C182%2C140&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#svghzwxhdp"
+    },
+    {
+        "added": 1719700424,
+        "ip": "162.159.193.111",
+        "port": "8742",
+        "private_key": "qAbA0atDkX3TbCP+6XT1JHbmzpYPU4n3Zn+ziNE+T0o%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "77,26,163",
+        "reserved(base64)": "TRqj",
+        "key": "4yS78J9E-84UB6kl7-8y34qb9A",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.193.111:8742?private_key=qAbA0atDkX3TbCP+6XT1JHbmzpYPU4n3Zn+ziNE+T0o%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=77,26,163#argylogmfi",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.193.111:8742\/?pk=qAbA0atDkX3TbCP+6XT1JHbmzpYPU4n3Zn+ziNE+T0o%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=77,26,163&ifp=8-15&ifps=40-100&ifpd=20-250#argylogmfi",
+        "v2rayng": "wireguard:\/\/qAbA0atDkX3TbCP%2B6XT1JHbmzpYPU4n3Zn%2BziNE%2BT0o%3D@162.159.193.111:8742?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=77%2C26%2C163&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#argylogmfi"
     }
 ]
