@@ -17262,5 +17262,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.193.24:1180?private_key=IEyiYFtKDl07iDdBrUl5m12do3xlWRqamRYJqNm+O2c%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=221,7,239#gyrvtfvhem",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.193.24:1180\/?pk=IEyiYFtKDl07iDdBrUl5m12do3xlWRqamRYJqNm+O2c%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=221,7,239&ifp=8-15&ifps=40-100&ifpd=20-250#gyrvtfvhem",
         "v2rayng": "wireguard:\/\/IEyiYFtKDl07iDdBrUl5m12do3xlWRqamRYJqNm%2BO2c%3D@162.159.193.24:1180?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=221%2C7%2C239&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#gyrvtfvhem"
+    },
+    {
+        "added": 1719815620,
+        "ip": "188.114.99.56",
+        "port": "1014",
+        "private_key": "KCFzIP4fuXpnC1O1QcH\/ksUfRwcSkJl6Xgtgfkh34GU%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "89,96,46",
+        "reserved(base64)": "WWAu",
+        "key": "8v962xHm-c6Z1V05v-8u7IK93E",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.56:1014?private_key=KCFzIP4fuXpnC1O1QcH\/ksUfRwcSkJl6Xgtgfkh34GU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=89,96,46#gqkgyykwec",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.56:1014\/?pk=KCFzIP4fuXpnC1O1QcH\/ksUfRwcSkJl6Xgtgfkh34GU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=89,96,46&ifp=8-15&ifps=40-100&ifpd=20-250#gqkgyykwec",
+        "v2rayng": "wireguard:\/\/KCFzIP4fuXpnC1O1QcH%2FksUfRwcSkJl6Xgtgfkh34GU%3D@188.114.99.56:1014?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=89%2C96%2C46&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#gqkgyykwec"
     }
 ]
