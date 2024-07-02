@@ -19199,5 +19199,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.56:955?private_key=mIqjAjKxZmFsNF6gDLchtnI\/UAy42zaSCRTna+owrV4%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=41,71,74#tskibpapqe",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.56:955\/?pk=mIqjAjKxZmFsNF6gDLchtnI\/UAy42zaSCRTna+owrV4%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=41,71,74&ifp=8-15&ifps=40-100&ifpd=20-250#tskibpapqe",
         "v2rayng": "wireguard:\/\/mIqjAjKxZmFsNF6gDLchtnI%2FUAy42zaSCRTna%2BowrV4%3D@188.114.96.56:955?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=41%2C71%2C74&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#tskibpapqe"
+    },
+    {
+        "added": 1719961609,
+        "ip": "162.159.192.52",
+        "port": "880",
+        "private_key": "qKJEpyTI05GejI1m1bzib0LEhZXv0qyoC8MIT6QeWn0%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "241,1,131",
+        "reserved(base64)": "8QGD",
+        "key": "8610fawQ-3jl79r5L-25xm4Xs3",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.192.52:880?private_key=qKJEpyTI05GejI1m1bzib0LEhZXv0qyoC8MIT6QeWn0%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=241,1,131#ilbwricazu",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.192.52:880\/?pk=qKJEpyTI05GejI1m1bzib0LEhZXv0qyoC8MIT6QeWn0%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=241,1,131&ifp=8-15&ifps=40-100&ifpd=20-250#ilbwricazu",
+        "v2rayng": "wireguard:\/\/qKJEpyTI05GejI1m1bzib0LEhZXv0qyoC8MIT6QeWn0%3D@162.159.192.52:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=241%2C1%2C131&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#ilbwricazu"
     }
 ]
