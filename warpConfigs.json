@@ -18796,5 +18796,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.193.111:1180?private_key=kAAkPtD5ooCYWQD2HDxswx8TZYUUoDN3E2v2\/Gs5524%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=214,206,93#zmeaegprww",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.193.111:1180\/?pk=kAAkPtD5ooCYWQD2HDxswx8TZYUUoDN3E2v2\/Gs5524%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=214,206,93&ifp=8-15&ifps=40-100&ifpd=20-250#zmeaegprww",
         "v2rayng": "wireguard:\/\/kAAkPtD5ooCYWQD2HDxswx8TZYUUoDN3E2v2%2FGs5524%3D@162.159.193.111:1180?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=214%2C206%2C93&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#zmeaegprww"
+    },
+    {
+        "added": 1719932852,
+        "ip": "188.114.96.225",
+        "port": "955",
+        "private_key": "aEQ0GG30t+\/uqVP7\/+\/6MtU\/N9JcCV7zjJuN8R1XFHk%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "237,95,235",
+        "reserved(base64)": "7V\/r",
+        "key": "6PcX70B5-G94td2L3-73obm95A",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.225:955?private_key=aEQ0GG30t+\/uqVP7\/+\/6MtU\/N9JcCV7zjJuN8R1XFHk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=237,95,235#qaruzlspor",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.225:955\/?pk=aEQ0GG30t+\/uqVP7\/+\/6MtU\/N9JcCV7zjJuN8R1XFHk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=237,95,235&ifp=8-15&ifps=40-100&ifpd=20-250#qaruzlspor",
+        "v2rayng": "wireguard:\/\/aEQ0GG30t%2B%2FuqVP7%2F%2B%2F6MtU%2FN9JcCV7zjJuN8R1XFHk%3D@188.114.96.225:955?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=237%2C95%2C235&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#qaruzlspor"
     }
 ]
