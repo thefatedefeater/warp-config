@@ -17938,5 +17938,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.193.41:2506?private_key=GGtWO7nFOP1MGAQi6QTiIWTeOPnXo3xr+vD33d1eynw%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=106,229,248#evmzjryhfm",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.193.41:2506\/?pk=GGtWO7nFOP1MGAQi6QTiIWTeOPnXo3xr+vD33d1eynw%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=106,229,248&ifp=8-15&ifps=40-100&ifpd=20-250#evmzjryhfm",
         "v2rayng": "wireguard:\/\/GGtWO7nFOP1MGAQi6QTiIWTeOPnXo3xr%2BvD33d1eynw%3D@162.159.193.41:2506?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=106%2C229%2C248&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#evmzjryhfm"
+    },
+    {
+        "added": 1720124579,
+        "ip": "188.114.99.149",
+        "port": "1387",
+        "private_key": "qOTksxADKZKmv\/x7C0zFOQPS4eP\/a\/+wDh8E6zuGTkY%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "156,19,35",
+        "reserved(base64)": "nBMj",
+        "key": "2t4y7CP8-NUZm0178-5TD9V1t0",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.149:1387?private_key=qOTksxADKZKmv\/x7C0zFOQPS4eP\/a\/+wDh8E6zuGTkY%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=156,19,35#woydtgrtzl",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.149:1387\/?pk=qOTksxADKZKmv\/x7C0zFOQPS4eP\/a\/+wDh8E6zuGTkY%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=156,19,35&ifp=8-15&ifps=40-100&ifpd=20-250#woydtgrtzl",
+        "v2rayng": "wireguard:\/\/qOTksxADKZKmv%2Fx7C0zFOQPS4eP%2Fa%2F%2BwDh8E6zuGTkY%3D@188.114.99.149:1387?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=156%2C19%2C35&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#woydtgrtzl"
     }
 ]
