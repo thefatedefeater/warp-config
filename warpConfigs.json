@@ -17795,5 +17795,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.97.84:891?private_key=UKCdWw2G9cfXTxbqjx+6VzkvBzAuUKd7wSycTyEIZWM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=28,20,11#qhaebrzzaa",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.97.84:891\/?pk=UKCdWw2G9cfXTxbqjx+6VzkvBzAuUKd7wSycTyEIZWM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=28,20,11&ifp=8-15&ifps=40-100&ifpd=20-250#qhaebrzzaa",
         "v2rayng": "wireguard:\/\/UKCdWw2G9cfXTxbqjx%2B6VzkvBzAuUKd7wSycTyEIZWM%3D@188.114.97.84:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=28%2C20%2C11&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#qhaebrzzaa"
+    },
+    {
+        "added": 1720114273,
+        "ip": "188.114.99.22",
+        "port": "987",
+        "private_key": "iC50rMwvZBhsyPuBRD925irlWNEM2FYNGbg50IEMn1E%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "62,29,69",
+        "reserved(base64)": "Ph1F",
+        "key": "7v53kG2Z-9f2I7Yg8-2N15sBD8",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.22:987?private_key=iC50rMwvZBhsyPuBRD925irlWNEM2FYNGbg50IEMn1E%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=62,29,69#zumkdiyhex",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.22:987\/?pk=iC50rMwvZBhsyPuBRD925irlWNEM2FYNGbg50IEMn1E%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=62,29,69&ifp=8-15&ifps=40-100&ifpd=20-250#zumkdiyhex",
+        "v2rayng": "wireguard:\/\/iC50rMwvZBhsyPuBRD925irlWNEM2FYNGbg50IEMn1E%3D@188.114.99.22:987?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=62%2C29%2C69&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#zumkdiyhex"
     }
 ]
