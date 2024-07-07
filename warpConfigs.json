@@ -24243,5 +24243,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.97.88:7156?private_key=mIbalLwWd11fE4GP0w+v58x\/r00imf5g4NkZRPQjuGA%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=198,89,200#pdphtjqtpv",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.97.88:7156\/?pk=mIbalLwWd11fE4GP0w+v58x\/r00imf5g4NkZRPQjuGA%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=198,89,200&ifp=8-15&ifps=40-100&ifpd=20-250#pdphtjqtpv",
         "v2rayng": "wireguard:\/\/mIbalLwWd11fE4GP0w%2Bv58x%2Fr00imf5g4NkZRPQjuGA%3D@188.114.97.88:7156?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=198%2C89%2C200&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#pdphtjqtpv"
+    },
+    {
+        "added": 1720350290,
+        "ip": "188.114.96.202",
+        "port": "7103",
+        "private_key": "yGahTR7LDoN5kW1VC1\/3CjflNYJq2Aoznix2DCREO0I%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "172,20,54",
+        "reserved(base64)": "rBQ2",
+        "key": "g052Z6QS-91KWbE82-b97T4t6h",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.202:7103?private_key=yGahTR7LDoN5kW1VC1\/3CjflNYJq2Aoznix2DCREO0I%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=172,20,54#pywasuvdll",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.202:7103\/?pk=yGahTR7LDoN5kW1VC1\/3CjflNYJq2Aoznix2DCREO0I%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=172,20,54&ifp=8-15&ifps=40-100&ifpd=20-250#pywasuvdll",
+        "v2rayng": "wireguard:\/\/yGahTR7LDoN5kW1VC1%2F3CjflNYJq2Aoznix2DCREO0I%3D@188.114.96.202:7103?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=172%2C20%2C54&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#pywasuvdll"
     }
 ]
