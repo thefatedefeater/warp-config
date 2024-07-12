@@ -30106,5 +30106,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.95:946?private_key=kJa466w3GiAQIs0BJgZmFvgDJ+OxiP0HMrPjGpusbWU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=20,114,143#ibzcwnyfle",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.95:946\/?pk=kJa466w3GiAQIs0BJgZmFvgDJ+OxiP0HMrPjGpusbWU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=20,114,143&ifp=8-15&ifps=40-100&ifpd=20-250#ibzcwnyfle",
         "v2rayng": "wireguard:\/\/kJa466w3GiAQIs0BJgZmFvgDJ%2BOxiP0HMrPjGpusbWU%3D@188.114.98.95:946?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=20%2C114%2C143&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#ibzcwnyfle"
+    },
+    {
+        "added": 1720807685,
+        "ip": "188.114.99.42",
+        "port": "859",
+        "private_key": "yOFMKRrGj4Xv+mbJ21qsH\/raAXBOZ\/1Ee3VP0fRpT1E%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "161,233,232",
+        "reserved(base64)": "oeno",
+        "key": "0p5d3xZ2-7jN2M10k-8CbWH690",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.42:859?private_key=yOFMKRrGj4Xv+mbJ21qsH\/raAXBOZ\/1Ee3VP0fRpT1E%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=161,233,232#upehudimag",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.42:859\/?pk=yOFMKRrGj4Xv+mbJ21qsH\/raAXBOZ\/1Ee3VP0fRpT1E%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=161,233,232&ifp=8-15&ifps=40-100&ifpd=20-250#upehudimag",
+        "v2rayng": "wireguard:\/\/yOFMKRrGj4Xv%2BmbJ21qsH%2FraAXBOZ%2F1Ee3VP0fRpT1E%3D@188.114.99.42:859?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=161%2C233%2C232&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#upehudimag"
     }
 ]
