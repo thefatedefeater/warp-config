@@ -26791,5 +26791,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.195.125:988?private_key=iFYH\/Nxdz1Cezcmsev9Ea1Cos3i1pO7CkzmVcqkuLGk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=167,38,11#ctmyjuqmmw",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.195.125:988\/?pk=iFYH\/Nxdz1Cezcmsev9Ea1Cos3i1pO7CkzmVcqkuLGk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=167,38,11&ifp=8-15&ifps=40-100&ifpd=20-250#ctmyjuqmmw",
         "v2rayng": "wireguard:\/\/iFYH%2FNxdz1Cezcmsev9Ea1Cos3i1pO7CkzmVcqkuLGk%3D@162.159.195.125:988?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=167%2C38%2C11&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#ctmyjuqmmw"
+    },
+    {
+        "added": 1720809970,
+        "ip": "188.114.96.151",
+        "port": "945",
+        "private_key": "APxlzouvu6f04phK6IA9IjyJb3g8xN+1tK7G8kK7EHU%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "196,168,245",
+        "reserved(base64)": "xKj1",
+        "key": "25fy0Q3m-7reu2D40-f145Pc7m",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.151:945?private_key=APxlzouvu6f04phK6IA9IjyJb3g8xN+1tK7G8kK7EHU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=196,168,245#yckawlkamp",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.151:945\/?pk=APxlzouvu6f04phK6IA9IjyJb3g8xN+1tK7G8kK7EHU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=196,168,245&ifp=8-15&ifps=40-100&ifpd=20-250#yckawlkamp",
+        "v2rayng": "wireguard:\/\/APxlzouvu6f04phK6IA9IjyJb3g8xN%2B1tK7G8kK7EHU%3D@188.114.96.151:945?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=196%2C168%2C245&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#yckawlkamp"
     }
 ]
