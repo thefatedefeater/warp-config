@@ -28897,5 +28897,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.192.242:7559?private_key=COZ835cRHnF2OxaPyTsx8mbN38p3lNCmCKi9M9ThdWk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=166,54,123#oxftmwqwal",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.192.242:7559\/?pk=COZ835cRHnF2OxaPyTsx8mbN38p3lNCmCKi9M9ThdWk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=166,54,123&ifp=8-15&ifps=40-100&ifpd=20-250#oxftmwqwal",
         "v2rayng": "wireguard:\/\/COZ835cRHnF2OxaPyTsx8mbN38p3lNCmCKi9M9ThdWk%3D@162.159.192.242:7559?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=166%2C54%2C123&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#oxftmwqwal"
+    },
+    {
+        "added": 1720977070,
+        "ip": "162.159.195.59",
+        "port": "891",
+        "private_key": "QIKe77dBK\/LU+ilwfclri97pfX7T6BAuoLSuTu7V2kg%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "111,176,1",
+        "reserved(base64)": "b7AB",
+        "key": "8BN540Tg-4V6s8b5z-T1704bkq",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.195.59:891?private_key=QIKe77dBK\/LU+ilwfclri97pfX7T6BAuoLSuTu7V2kg%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=111,176,1#egygnunamk",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.195.59:891\/?pk=QIKe77dBK\/LU+ilwfclri97pfX7T6BAuoLSuTu7V2kg%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=111,176,1&ifp=8-15&ifps=40-100&ifpd=20-250#egygnunamk",
+        "v2rayng": "wireguard:\/\/QIKe77dBK%2FLU%2Bilwfclri97pfX7T6BAuoLSuTu7V2kg%3D@162.159.195.59:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=111%2C176%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#egygnunamk"
     }
 ]
