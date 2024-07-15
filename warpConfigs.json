@@ -30145,5 +30145,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.193.238:908?private_key=iMhBDAgAYfb6+j5pCzBhDcDpoilVdSe9BfWfbsVPMGA%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=223,151,92#kmjravmhlz",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.193.238:908\/?pk=iMhBDAgAYfb6+j5pCzBhDcDpoilVdSe9BfWfbsVPMGA%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=223,151,92&ifp=8-15&ifps=40-100&ifpd=20-250#kmjravmhlz",
         "v2rayng": "wireguard:\/\/iMhBDAgAYfb6%2Bj5pCzBhDcDpoilVdSe9BfWfbsVPMGA%3D@162.159.193.238:908?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=223%2C151%2C92&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#kmjravmhlz"
+    },
+    {
+        "added": 1721075462,
+        "ip": "162.159.192.198",
+        "port": "928",
+        "private_key": "gCPB1A3KJYeQOxABy6U3V+c5rkQwz5bz6ZivCHRU438%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "92,100,39",
+        "reserved(base64)": "XGQn",
+        "key": "N8CPB462-Rd6529Xp-5x3w8fN1",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.192.198:928?private_key=gCPB1A3KJYeQOxABy6U3V+c5rkQwz5bz6ZivCHRU438%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=92,100,39#borzeuveqr",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.192.198:928\/?pk=gCPB1A3KJYeQOxABy6U3V+c5rkQwz5bz6ZivCHRU438%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=92,100,39&ifp=8-15&ifps=40-100&ifpd=20-250#borzeuveqr",
+        "v2rayng": "wireguard:\/\/gCPB1A3KJYeQOxABy6U3V%2Bc5rkQwz5bz6ZivCHRU438%3D@162.159.192.198:928?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=92%2C100%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#borzeuveqr"
     }
 ]
