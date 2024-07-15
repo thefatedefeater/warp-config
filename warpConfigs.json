@@ -29846,5 +29846,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.216:7281?private_key=yFXuzrKjWhyq+5H00T+QejAAKAlXLRIQqUPNB4EKqnM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=255,221,245#ztqdaomovs",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.216:7281\/?pk=yFXuzrKjWhyq+5H00T+QejAAKAlXLRIQqUPNB4EKqnM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=255,221,245&ifp=8-15&ifps=40-100&ifpd=20-250#ztqdaomovs",
         "v2rayng": "wireguard:\/\/yFXuzrKjWhyq%2B5H00T%2BQejAAKAlXLRIQqUPNB4EKqnM%3D@188.114.99.216:7281?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=255%2C221%2C245&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#ztqdaomovs"
+    },
+    {
+        "added": 1721053932,
+        "ip": "188.114.96.25",
+        "port": "891",
+        "private_key": "uA1hKLen23C6tU2Y6rLQfAZiDdhYTupQyqYMoS3WFkk%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "13,220,0",
+        "reserved(base64)": "DdwA",
+        "key": "Free WARP",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.25:891?private_key=uA1hKLen23C6tU2Y6rLQfAZiDdhYTupQyqYMoS3WFkk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=13,220,0#breknsteaq",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.25:891\/?pk=uA1hKLen23C6tU2Y6rLQfAZiDdhYTupQyqYMoS3WFkk%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=13,220,0&ifp=8-15&ifps=40-100&ifpd=20-250#breknsteaq",
+        "v2rayng": "wireguard:\/\/uA1hKLen23C6tU2Y6rLQfAZiDdhYTupQyqYMoS3WFkk%3D@188.114.96.25:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=13%2C220%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#breknsteaq"
     }
 ]
