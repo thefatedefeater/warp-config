@@ -29248,5 +29248,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.242:8319?private_key=ED2DiF9dBeTsGmV5D6aYzwEKjEp+5agOthoN04XH\/Xc%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=14,43,117#neetebfwzh",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.242:8319\/?pk=ED2DiF9dBeTsGmV5D6aYzwEKjEp+5agOthoN04XH\/Xc%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=14,43,117&ifp=8-15&ifps=40-100&ifpd=20-250#neetebfwzh",
         "v2rayng": "wireguard:\/\/ED2DiF9dBeTsGmV5D6aYzwEKjEp%2B5agOthoN04XH%2FXc%3D@188.114.96.242:8319?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=14%2C43%2C117&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#neetebfwzh"
+    },
+    {
+        "added": 1721008292,
+        "ip": "188.114.96.207",
+        "port": "8742",
+        "private_key": "oLWrozzXG83pBvOxmvFgzN5wh\/oshhECBx2tMU8o3H0%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "40,176,189",
+        "reserved(base64)": "KLC9",
+        "key": "4XjUq751-09pj41en-r9Fy8j45",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.207:8742?private_key=oLWrozzXG83pBvOxmvFgzN5wh\/oshhECBx2tMU8o3H0%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=40,176,189#zknhpznljb",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.207:8742\/?pk=oLWrozzXG83pBvOxmvFgzN5wh\/oshhECBx2tMU8o3H0%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=40,176,189&ifp=8-15&ifps=40-100&ifpd=20-250#zknhpznljb",
+        "v2rayng": "wireguard:\/\/oLWrozzXG83pBvOxmvFgzN5wh%2FoshhECBx2tMU8o3H0%3D@188.114.96.207:8742?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=40%2C176%2C189&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#zknhpznljb"
     }
 ]
