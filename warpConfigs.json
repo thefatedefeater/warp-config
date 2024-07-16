@@ -31250,5 +31250,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.2:8886?private_key=4NgijgI7Lo3JDxc7oJKmKQoarwuwyYBa5dDVId4PrmQ%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=199,177,143#oelephcncs",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.2:8886\/?pk=4NgijgI7Lo3JDxc7oJKmKQoarwuwyYBa5dDVId4PrmQ%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=199,177,143&ifp=8-15&ifps=40-100&ifpd=20-250#oelephcncs",
         "v2rayng": "wireguard:\/\/4NgijgI7Lo3JDxc7oJKmKQoarwuwyYBa5dDVId4PrmQ%3D@188.114.99.2:8886?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=199%2C177%2C143&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#oelephcncs"
+    },
+    {
+        "added": 1721161872,
+        "ip": "188.114.98.177",
+        "port": "4233",
+        "private_key": "mMLA8cVGDa8pWqOkSIQqgx0b4ujt8yeZd9fpBjEInHM%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "75,4,200",
+        "reserved(base64)": "SwTI",
+        "key": "z3a04id6-7v3nTN01-4x92gWk0",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.177:4233?private_key=mMLA8cVGDa8pWqOkSIQqgx0b4ujt8yeZd9fpBjEInHM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=75,4,200#gvbenelkau",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.177:4233\/?pk=mMLA8cVGDa8pWqOkSIQqgx0b4ujt8yeZd9fpBjEInHM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=75,4,200&ifp=8-15&ifps=40-100&ifpd=20-250#gvbenelkau",
+        "v2rayng": "wireguard:\/\/mMLA8cVGDa8pWqOkSIQqgx0b4ujt8yeZd9fpBjEInHM%3D@188.114.98.177:4233?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=75%2C4%2C200&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#gvbenelkau"
     }
 ]
