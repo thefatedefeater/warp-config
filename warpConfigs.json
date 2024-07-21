@@ -39973,5 +39973,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.192.20:3581?private_key=YIvD6S9I8neq8+5sK9M6kmciRNiDNgidqSViAiEHLV8%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=83,102,14#qackxaokfi",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.192.20:3581\/?pk=YIvD6S9I8neq8+5sK9M6kmciRNiDNgidqSViAiEHLV8%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=83,102,14&ifp=8-15&ifps=40-100&ifpd=20-250#qackxaokfi",
         "v2rayng": "wireguard:\/\/YIvD6S9I8neq8%2B5sK9M6kmciRNiDNgidqSViAiEHLV8%3D@162.159.192.20:3581?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=83%2C102%2C14&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#qackxaokfi"
+    },
+    {
+        "added": 1721585284,
+        "ip": "188.114.99.14",
+        "port": "1387",
+        "private_key": "kAG9aVVLmzBHNpfDBvtWlLFBfsUXLwG6S9eYJhZ7zUA%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "83,37,138",
+        "reserved(base64)": "UyWK",
+        "key": "v89pRa54-612bu5jw-tu93sB14",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.14:1387?private_key=kAG9aVVLmzBHNpfDBvtWlLFBfsUXLwG6S9eYJhZ7zUA%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=83,37,138#duermpqtte",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.14:1387\/?pk=kAG9aVVLmzBHNpfDBvtWlLFBfsUXLwG6S9eYJhZ7zUA%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=83,37,138&ifp=8-15&ifps=40-100&ifpd=20-250#duermpqtte",
+        "v2rayng": "wireguard:\/\/kAG9aVVLmzBHNpfDBvtWlLFBfsUXLwG6S9eYJhZ7zUA%3D@188.114.99.14:1387?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=83%2C37%2C138&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#duermpqtte"
     }
 ]
