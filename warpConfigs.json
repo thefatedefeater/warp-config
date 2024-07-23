@@ -38790,5 +38790,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.99.201:2408?private_key=UA5Fc7wrx7YUTNbWYFf8\/m5D1uRkNl6EGpAnkZMtQUM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=166,47,148#rjywohagul",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.99.201:2408\/?pk=UA5Fc7wrx7YUTNbWYFf8\/m5D1uRkNl6EGpAnkZMtQUM%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=166,47,148&ifp=8-15&ifps=40-100&ifpd=20-250#rjywohagul",
         "v2rayng": "wireguard:\/\/UA5Fc7wrx7YUTNbWYFf8%2Fm5D1uRkNl6EGpAnkZMtQUM%3D@188.114.99.201:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=166%2C47%2C148&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#rjywohagul"
+    },
+    {
+        "added": 1721754238,
+        "ip": "188.114.97.41",
+        "port": "4177",
+        "private_key": "WP6ni9vOygMd7VbFAmoAN8JxvMHf7kI01qPYKVJESWg%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "39,47,26",
+        "reserved(base64)": "Jy8a",
+        "key": "13j5i2lE-P1fGM564-7ZA09y5e",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.97.41:4177?private_key=WP6ni9vOygMd7VbFAmoAN8JxvMHf7kI01qPYKVJESWg%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=39,47,26#yiscydlive",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.97.41:4177\/?pk=WP6ni9vOygMd7VbFAmoAN8JxvMHf7kI01qPYKVJESWg%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=39,47,26&ifp=8-15&ifps=40-100&ifpd=20-250#yiscydlive",
+        "v2rayng": "wireguard:\/\/WP6ni9vOygMd7VbFAmoAN8JxvMHf7kI01qPYKVJESWg%3D@188.114.97.41:4177?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=39%2C47%2C26&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#yiscydlive"
     }
 ]
