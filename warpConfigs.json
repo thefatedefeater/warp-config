@@ -43496,5 +43496,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.192.213:854?private_key=CAAK5\/bioBKIhADKZMO6UAaow\/GQzixxwQI7hAXq4Hs%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=249,51,92#ujizrgjlzz",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.192.213:854\/?pk=CAAK5\/bioBKIhADKZMO6UAaow\/GQzixxwQI7hAXq4Hs%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=249,51,92&ifp=8-15&ifps=40-100&ifpd=20-250#ujizrgjlzz",
         "v2rayng": "wireguard:\/\/CAAK5%2FbioBKIhADKZMO6UAaow%2FGQzixxwQI7hAXq4Hs%3D@162.159.192.213:854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=249%2C51%2C92&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#ujizrgjlzz"
+    },
+    {
+        "added": 1721862483,
+        "ip": "188.114.98.73",
+        "port": "1701",
+        "private_key": "yKlfO52qhadkapEFy0bL7bTd0rh8ll\/3jHrCYeykt2w%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "89,228,27",
+        "reserved(base64)": "WeQb",
+        "key": "F948LX5t-zV3mO614-T0p9Nk34",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.73:1701?private_key=yKlfO52qhadkapEFy0bL7bTd0rh8ll\/3jHrCYeykt2w%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=89,228,27#mopoafanda",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.73:1701\/?pk=yKlfO52qhadkapEFy0bL7bTd0rh8ll\/3jHrCYeykt2w%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=89,228,27&ifp=8-15&ifps=40-100&ifpd=20-250#mopoafanda",
+        "v2rayng": "wireguard:\/\/yKlfO52qhadkapEFy0bL7bTd0rh8ll%2F3jHrCYeykt2w%3D@188.114.98.73:1701?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=89%2C228%2C27&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#mopoafanda"
     }
 ]
