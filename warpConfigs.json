@@ -44133,5 +44133,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/162.159.195.230:934?private_key=yH2Uoa1NDODcDCyOPNP6C2Ued8PrLJMzrl2PsKFfn1I%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=11,237,8#iaeggyjoes",
         "hiddify": "hiddify:\/\/import\/wg:\/\/162.159.195.230:934\/?pk=yH2Uoa1NDODcDCyOPNP6C2Ued8PrLJMzrl2PsKFfn1I%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=11,237,8&ifp=8-15&ifps=40-100&ifpd=20-250#iaeggyjoes",
         "v2rayng": "wireguard:\/\/yH2Uoa1NDODcDCyOPNP6C2Ued8PrLJMzrl2PsKFfn1I%3D@162.159.195.230:934?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=11%2C237%2C8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#iaeggyjoes"
+    },
+    {
+        "added": 1721916423,
+        "ip": "188.114.96.38",
+        "port": "8319",
+        "private_key": "0HOG1hrQOe7MNCKxYFR0wZBCKRgpnHja+uYrgEW3ZlU%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "140,213,109",
+        "reserved(base64)": "jNVt",
+        "key": "HI8S745g-27BzFf56-A460Htv7",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.96.38:8319?private_key=0HOG1hrQOe7MNCKxYFR0wZBCKRgpnHja+uYrgEW3ZlU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=140,213,109#dnxulypvfe",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.96.38:8319\/?pk=0HOG1hrQOe7MNCKxYFR0wZBCKRgpnHja+uYrgEW3ZlU%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=140,213,109&ifp=8-15&ifps=40-100&ifpd=20-250#dnxulypvfe",
+        "v2rayng": "wireguard:\/\/0HOG1hrQOe7MNCKxYFR0wZBCKRgpnHja%2BuYrgEW3ZlU%3D@188.114.96.38:8319?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=140%2C213%2C109&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#dnxulypvfe"
     }
 ]
