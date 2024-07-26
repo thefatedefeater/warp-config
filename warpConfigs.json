@@ -41702,5 +41702,18 @@
         "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.132:903?private_key=4MJR6rLI08dl0wOamBnaODlSXgOlUdDzRQe\/+wWO21I%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=52,200,0#ifilpgiamn",
         "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.132:903\/?pk=4MJR6rLI08dl0wOamBnaODlSXgOlUdDzRQe\/+wWO21I%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=52,200,0&ifp=8-15&ifps=40-100&ifpd=20-250#ifilpgiamn",
         "v2rayng": "wireguard:\/\/4MJR6rLI08dl0wOamBnaODlSXgOlUdDzRQe%2F%2BwWO21I%3D@188.114.98.132:903?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=52%2C200%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#ifilpgiamn"
+    },
+    {
+        "added": 1721985871,
+        "ip": "188.114.98.80",
+        "port": "945",
+        "private_key": "oMOAMPCogSgv79E1UzMEYPJ82tHN6On16bqYBoRSoFg%3D",
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D",
+        "reserved": "99,104,49",
+        "reserved(base64)": "Y2gx",
+        "key": "m9I08Xo5-B5nM962H-9r4GPI67",
+        "streisand": "streisand:\/\/import\/wireguard:\/\/188.114.98.80:945?private_key=oMOAMPCogSgv79E1UzMEYPJ82tHN6On16bqYBoRSoFg%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&reserved=99,104,49#lynrdzunov",
+        "hiddify": "hiddify:\/\/import\/wg:\/\/188.114.98.80:945\/?pk=oMOAMPCogSgv79E1UzMEYPJ82tHN6On16bqYBoRSoFg%3D&peer_public_key=bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2\/24,2606:4700:110:835b:afd4:b62b:a64a:2860\/128&mtu=1280&reserved=99,104,49&ifp=8-15&ifps=40-100&ifpd=20-250#lynrdzunov",
+        "v2rayng": "wireguard:\/\/oMOAMPCogSgv79E1UzMEYPJ82tHN6On16bqYBoRSoFg%3D@188.114.98.80:945?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=99%2C104%2C49&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#lynrdzunov"
     }
 ]
